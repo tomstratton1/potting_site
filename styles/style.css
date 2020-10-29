@@ -1,0 +1,13 @@
+.jumbotron-override {
+    margin-bottom: 0px;
+  }
+
+img.logo {
+  width:100%;
+  max-width: 100px;
+}
+
+img.biglogo {
+  width:100%;
+  max-width: 100px;
+}
