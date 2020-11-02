@@ -11,6 +11,15 @@
   font-weight: normal;  
 }
 
+.item-card{
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+}
+
+.list-override a{
+  color:black;
+}
 
 .nav-item-style li{
   padding-left: 1rem;
