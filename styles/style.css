@@ -1,10 +1,29 @@
+
+:root {
+  --background-color: #b5fc9f;
+  --font-color: #000000;
+}
+
+.nav-theme-override {
+  background-color: var(--background-color);
+  font-size: large;
+  text-transform: uppercase;
+  font-weight: normal;  
+}
+
+
+.nav-item-style li{
+  padding-left: 1rem;
+  
+}
+
 .jumbotron-override {
     margin-bottom: 0px;
   }
 
 img.logo {
   width:100%;
-  max-width: 100px;
+  max-width: 90px;
 }
 
 
