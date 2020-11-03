@@ -13,14 +13,14 @@ var data = {
        "name": "Drip style pot",
        "description": "A modern contemporary design.",
        "price": "5.99",
-       "image": "images/clean/geo_M_blue.png"
+       "image": "images/clean/geo_L_multi_Phil.png"
      },
      {
         "id": "3",
         "name": "Geometric rainbow pot",
         "description": "A large geometric design pot.",
         "price": "14.99",
-        "image": "images/clean/geo_M_blue.png"
+        "image": "images/clean/geo_S_multi.png"
       }
     ]
    }
